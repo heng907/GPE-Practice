@@ -1,5 +1,5 @@
 # GPE-Practice
-some gpe questions
+
 ## 簡介
  
 這個 repository 收錄了我平時練習的 GPE 題目,包含題目與程式碼實作。
